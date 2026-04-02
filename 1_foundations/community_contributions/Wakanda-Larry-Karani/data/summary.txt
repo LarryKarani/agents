@@ -1,0 +1,13 @@
+Larry Kubende is a Software Engineer based in Nairobi, Kenya, with extensive experience developing web applications using React, TypeScript, JavaScript, Node.js, Python, Django, and HTML/CSS.
+
+He currently holds two roles:
+- Senior Frontend Engineer at Old Mutual (since July 2023), where he develops motor insurance sales journeys and health insurance quotation tools. His work contributed to achieving a Net Promoter Score of 42% and exceeding customer needs targets.
+- Software Engineer (Contract) at PLUSPLUSMINUS in Johannesburg (since July 2021), where he revamped the American Swiss e-commerce platform, built high-converting landing pages for Sygnia using A/B testing, and developed the OSP Scan tool for assessing non-profit organizations.
+
+Previously, he worked at UAP Old Mutual (2021) building insurance UIs and integrating MPESA, Paystack, and Flutterwave payment gateways. At Julla (2020-2021) he built an e-commerce platform. He started his career at Andela (2018-2019), where he completed a rigorous training bootcamp and co-developed Activo, an asset management tool.
+
+Larry holds a BSc in Economics from Jomo Kenyatta University of Agriculture and Technology (2014-2018).
+
+Core skills: React, TypeScript, JavaScript, HTML/CSS, Node.js, Python, GraphQL, Tailwind CSS, Redux, Apollo GraphQL, headless CMS (Contentful, Contentstack), payment gateway integration, insurance technology.
+
+He is currently expanding into AI and agents, studying autonomous agent systems including the OpenAI Agents SDK, LangGraph, and MCP (Model Context Protocol).
