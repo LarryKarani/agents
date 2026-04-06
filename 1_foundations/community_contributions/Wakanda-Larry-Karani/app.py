@@ -13,8 +13,11 @@ class Me:
     """Digital twin of Larry Kubende - answers questions about his career, skills, and experience."""
 
     def __init__(self):
-        self.openai = OpenAI()
-        self.model = "gpt-4o-mini"
+        self.openai = OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=os.environ.get("OPENROUTER_API_KEY"),
+        )
+        self.model = "openai/gpt-4o-mini"
         self.summary = open("data/summary.txt").read()
         self.system_prompt = self._build_system_prompt()
 
